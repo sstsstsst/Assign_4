@@ -1,0 +1,9 @@
+19:05:02 18:08:57	client	pid is [26459]		 :	connected.
+19:05:02 18:08:57	client	pid : [26459]		 sending:	date
+19:05:02 18:08:57	client	pid : [26459]		 recieved:	Thu t+
+19:05:02 18:08:57	client	pid : [26459]		 sending:	ls -l 
+19:05:02 18:08:57	client	pid : [26459]		 recieved:	total 
+19:05:02 18:08:57	client	pid : [26459]		 sending:	ls  | wc 
+19:05:02 18:08:57	client	pid : [26459]		 recieved:	     15  ô-t+
+19:05:02 18:08:57	client	pid : [26459]		 sending:	end
+19:05:02 18:08:57	client	pid : [26459]		 recieved:	end  15  ô-t+
